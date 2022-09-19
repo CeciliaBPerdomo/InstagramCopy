@@ -1,0 +1,55 @@
+body {
+    background: black;
+}
+
+
+.post {
+    background: white;
+    width: 400px;
+    height: 530px;
+    margin: auto;
+}
+
+.header-logo img {
+    width: 5%;
+    height: 5%;
+    padding: 15px;  
+    float: left;
+}
+
+.header-nombre {
+    float: left;
+    margin: 10px;
+}
+
+.header-puntitos {
+    padding: 15px;
+    float: right;
+}
+
+.post-image img {
+    width: 400px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    margin: initial;
+}
+
+.body-descriptions {
+    padding: 10px;
+    text-align: justify;
+}
+
+.body-likes {
+    padding: 10px;
+}
+
+.fa-bookmark{
+    float: right;
+}
+
+.body-icons{
+    padding: 10px 10px 10px 10px;
+}
